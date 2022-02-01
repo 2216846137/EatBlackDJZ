@@ -442,7 +442,7 @@ const MODE_NORMAL = 1, MODE_ENDLESS = 2, MODE_PRACTICE = 3;
         }
 
         if (cps <= 5) return '小逼崽子是不是没见过黑社会啊';
-        if (cps <= 8) return '你是想要尝尝这跟火棍还是我的棍呢';
+        if (cps <= 8) return '你是想尝尝这根火棍还是我的棍呢';
         if (cps <= 10)  return '黑社会被你玩坏了';
         if (cps <= 15) return '黑社会生子';
         return '人？';
